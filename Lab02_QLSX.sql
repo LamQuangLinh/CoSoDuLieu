@@ -1,6 +1,6 @@
 ﻿/* Học phần: Cơ sở dữ liệu
-   Người thực hiện: Nguyễn Điền Thái Bảo
-   MSSV: 2112966
+   Người thực hiện: Lâm Quang Linh
+   MSSV: 2112998
    Lớp: CTK45B
    Ngày bắt đầu: 23/02/2023
    Ngày kết thúc: 04/04/2023
